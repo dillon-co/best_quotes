@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'rulers', '~> 0.1.0'
+gem 'rulers', '~> 0.0.2'
